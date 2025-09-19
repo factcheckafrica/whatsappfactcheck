@@ -1,0 +1,12 @@
+gunicorn
+flask
+twilio
+requests
+pyshorteners
+python-dotenv
+redis
+pydub 
+speechrecognition 
+googletrans==4.0.0-rc1
+openai
+celery
