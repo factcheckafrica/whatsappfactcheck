@@ -10,3 +10,8 @@ speechrecognition
 googletrans==4.0.0-rc1
 openai
 celery
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+langchain-tavily
