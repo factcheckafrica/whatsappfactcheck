@@ -36,6 +36,7 @@ The bot manages **user sessions** with Redis, supports feedback collection, and 
 - Flask
 - Redis
 - Twilio
+- googletrans==4.0.0-rc1
 - LangChain & integrations:
   - `langchain-community`
   - `langchain-openai`
