@@ -15,7 +15,7 @@ The bot manages **user sessions** with Redis, supports feedback collection, and 
   Uses Google Serper (default) and Tavily (fallback) for web search, and processes results with **Groq (LLaMA 3.1 8B)** or **OpenAI GPT-4o-mini**.
 
 - **Multi-Language & Greetings**  
-  Detects greetings in English, Hausa, and other languages for more natural interactions.
+  Detects greetings in English,French, Hausa, and other languages for more natural interactions.
 
 - **Session Management**  
   Tracks conversations with Redis, resets automatically after 24 hours.
